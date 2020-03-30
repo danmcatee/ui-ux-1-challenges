@@ -1,3 +1,7 @@
+## Resources
+
+[Challenges Repo](https://github.com/danmcatee/ui-ux-1-challenges)
+
 ## Outline
 
 ### White Space
